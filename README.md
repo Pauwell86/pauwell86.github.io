@@ -5,6 +5,6 @@ I want to change my job. I decided to be IOS developer. I think that the Apple i
 
 I've read the book for beginner of IOS developers and I did tasks myself
 
-[GitHub](https://github.com/Pauwell86/Lesson7/pulls)
+https://github.com/Pauwell86/Lesson7/pulls
 
 I've been learning English for 3 years. I started learning English in Skyeng. Now I'm learning English with teacher on Skype twice a week
